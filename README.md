@@ -66,7 +66,7 @@
 
 - 🌱 I’m currently learning **Compose, KMM, Kotlin, AI, Deep-Learning**
 
-- 👨‍💻 All of my projects are available at [https://saibabu0524.github.io/personal_portfolio_web/](https://saibabu0524.github.io/saibabu0524/)
+- 👨‍💻 All of my projects are available at [https://saibabu0524.github.io/saibabu0524/](https://saibabu0524.github.io/saibabu0524/)
 
 
 
